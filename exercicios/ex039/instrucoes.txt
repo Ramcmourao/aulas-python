@@ -1,0 +1,13 @@
+Com recurso às novas técnicas de desenvolvimento aprendidas, crie:
+
+--- Calculadora ---
+[ 1 ] – Tabuada
+[ 2 ] – Calculadora
+[ 3 ] – Números Pares
+[ 4 ] – Sair
+
+Mediante a opção solicitada o sistema deve executar a ação do menu.
+
+# pasta funcoes
+## matematicas
+## utils -> cabeçalho e o limpa e o menu
